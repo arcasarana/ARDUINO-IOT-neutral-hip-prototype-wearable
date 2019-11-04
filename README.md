@@ -1,0 +1,1 @@
+This is the code for an IOT proof-of-concept prototype I developed for a wearable device to maintain a neutral hip position.  The code utilizes the sample code given by Adafruit--the company whose products I used for the prototype.
